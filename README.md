@@ -41,6 +41,7 @@
 ### 📚 [Trainee Management System](https://github.com/xevohere/TAMS)  
  • Contributed by enhancing database-driven user interface, reducing manual errors and improving efficiency.
  • Utilized MySQL to create a user-friendly interface for streamlined attendance management.
+
 ---
 
 ## 🏆 Achievements & Certifications
@@ -50,7 +51,6 @@
 - 📜 *Ethical Decision Making for Tech*  
 - 📜 *Corporate Governance & Responsibility*
 
----
 ---
 
 <!-- 🐍 Snake Game Animation -->
