@@ -11,8 +11,7 @@
 
 - 🎓 B.Tech in Computer Science @ **KIIT University** (2022–2026)
 - 🧠 Passionate about building **AI-powered tools** to solve real-world problems
-- 🤝 Always up for **collaborations**, **open-source**, or just some nerdy brainstorming
-- 💬 Languages: English, Hindi, Urdu
+- 💬 Languages: English, Hindi
 
 ---
 
@@ -29,7 +28,7 @@
 
 ## 🚀 Notable Projects
 
-### 🧠 [Maestro](https://github.com/AliRizvi433/Maestro)  
+### 🧠 [Skin-Tone-Classifier](https://github.com/xevohere/Skin-Tone-Classification)  
 *AI-powered Exam Prep Assistant*  
 - Built with **LangChain + LLaMA 3** for KIIT semester Q&A  
 - Designed a **RAG pipeline** with metadata-rich ingestion  
