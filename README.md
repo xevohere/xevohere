@@ -29,28 +29,18 @@
 ## 🚀 Notable Projects
 
 ### 🧠 [Skin-Tone-Classifier](https://github.com/xevohere/Skin-Tone-Classification)  
-*AI-powered Exam Prep Assistant*  
-- Built with **LangChain + LLaMA 3** for KIIT semester Q&A  
-- Designed a **RAG pipeline** with metadata-rich ingestion  
-- Achieved **90%+ accuracy** in question retrieval
+ • Utilized transfer learning to fine-tune CNN models for accurate skin tone classification.
+ • Achieved 87.35% accuracy with ResNet50 after fine-tuning and data augmentation.
+ • Evaluated models with key metrics to enhance dermatology and cosmetics applications.
 
-### ⚖️ [LawLiet](https://github.com/AliRizvi433/LawLiet)  
-*Legal Document AI Bot*  
-- Fine-tuned OpenAI model on Indian legal docs  
-- Built using **Flask + HTML/CSS + JS**  
-- Delivered **93%+ semantic accuracy** on unseen legal queries
+### ⚖️ [Grammar Checker](https://github.com/xevohere/Grammar-Checker)  
+ • Built a transformer-based pipeline to transcribe and score spoken grammar in 45–60 second audio clips
+ • Automated MOS Likert scoring with openai/whisper for transcription and fine-tuned microsoft/DeBERTa for
+ regression, improving prediction reliability.
 
-### 📚 [StudySync API](https://github.com/AliRizvi433/studysync-api)  
-*RESTful API backend for student notes & QBank app*  
-- Built with **FastAPI + PostgreSQL + SQLAlchemy**  
-- Features secure auth, note versioning, and role-based access  
-- Designed for scalability and easy frontend integration
-
-### 🎯 Trajectory Visualizer for DRDO *(private)*  
-*Real-time object tracking system*  
-- Implemented dynamic 2D rendering via **PyQT + sockets**  
-- Visualized object data for better operational insight
-
+### 📚 [Trainee Management System](https://github.com/xevohere/TAMS)  
+ • Contributed by enhancing database-driven user interface, reducing manual errors and improving efficiency.
+ • Utilized MySQL to create a user-friendly interface for streamlined attendance management.
 ---
 
 ## 🏆 Achievements & Certifications
