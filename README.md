@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <div align="center">
-  <h1>Hi, I'm Ali Rizvi 👋</h1>
+  <h1>Hi, I'm Alok Gupta 👋</h1>
   <p>
-    🚀 CSE Undergrad | 🤖 AI/ML Enthusiast | 🛠️ Full-Stack Tinkerer | 🇮🇳 From Bihar, India
+    Summer-Trainee @DRDO | Trainee @Intel | CS Major @KIIT DU
   </p>
 </div>
 
