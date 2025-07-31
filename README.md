@@ -29,27 +29,20 @@
 ## 🚀 Notable Projects
 
 ### 🧠 [Skin-Tone-Classifier](https://github.com/xevohere/Skin-Tone-Classification)  
- • Utilized transfer learning to fine-tune CNN models for accurate skin tone classification.
- • Achieved 87.35% accuracy with ResNet50 after fine-tuning and data augmentation.
- • Evaluated models with key metrics to enhance dermatology and cosmetics applications.
+ - Utilized transfer learning to fine-tune CNN models for accurate skin tone classification.
+ - Achieved 87.35% accuracy with ResNet50 after fine-tuning and data augmentation.
+ - Evaluated models with key metrics to enhance dermatology and cosmetics applications.
 
 ### ⚖️ [Grammar Checker](https://github.com/xevohere/Grammar-Checker)  
- • Built a transformer-based pipeline to transcribe and score spoken grammar in 45–60 second audio clips
- • Automated MOS Likert scoring with openai/whisper for transcription and fine-tuned microsoft/DeBERTa for
+ - Built a transformer-based pipeline to transcribe and score spoken grammar in 45–60 second audio clips
+ - Automated MOS Likert scoring with openai/whisper for transcription and fine-tuned microsoft/DeBERTa for
  regression, improving prediction reliability.
 
 ### 📚 [Trainee Management System](https://github.com/xevohere/TAMS)  
- • Contributed by enhancing database-driven user interface, reducing manual errors and improving efficiency.
- • Utilized MySQL to create a user-friendly interface for streamlined attendance management.
+ - Contributed by enhancing database-driven user interface, reducing manual errors and improving efficiency.
+ - Utilized MySQL to create a user-friendly interface for streamlined attendance management.
 
 ---
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **KIITEE Rank 605** — ₹10,000 Monthly Scholarship  
-- 📜 *Supervised Machine Learning* (Coursera)  
-- 📜 *Ethical Decision Making for Tech*  
-- 📜 *Corporate Governance & Responsibility*
 
 ---
 
