@@ -10,10 +10,6 @@
   <img src="./assets/terminal.gif" alt="Terminal Intro GIF" width="70%" />
 </div>
 
-<!-- Fancy Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=AI+%2B+ML+Enthusiast+from+KIIT.;Building+RAG%2C+LLMs%2C+and+cool+stuff.;Open+to+projects+and+collabs.;Coder+by+day%2C+tinkerer+by+night.">
@@ -32,16 +28,11 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `JavaScript` `SQL` `C`
+`Java` `Python` `SQL` `C`
 
 **AI/ML & NLP:**  
-`Large Language Models (LLMs)` `LangChain` `Prompt Engineering` `Fine-Tuning` `OpenAI`
+`Large Language Models (LLMs)` `Prompt Engineering` `Fine-Tuning`
 
-**Web Dev:**  
-`Flask` `HTML` `CSS`
-
-**Tools & Concepts:**  
-`Data Structures & Algorithms` `PyQT` `Socket Programming` `SEO`
 
 ---
 
