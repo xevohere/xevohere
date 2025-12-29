@@ -11,14 +11,13 @@
 
 - 🎓 B.Tech in Computer Science @ **KIIT University** (2022–2026)
 - 🧠 Passionate about building **AI-powered tools** to solve real-world problems
-- 💬 Languages: English, Hindi
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `SQL` `C`
+`Java` `Python` `SQL` `C` `HTML` `CSS`
 
 **AI/ML & NLP:**  
 `Large Language Models (LLMs)` `Prompt Engineering` `Fine-Tuning`
@@ -42,25 +41,6 @@
  - Contributed by enhancing database-driven user interface, reducing manual errors and improving efficiency.
  - Utilized MySQL to create a user-friendly interface for streamlined attendance management.
 
----
-
----
-
-<!-- 🐍 Snake Game Animation -->
-<div align="center">
-  <img src="https://github.com/AliRizvi433/AliRizvi433/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💻 Tech Stack (Badges)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
